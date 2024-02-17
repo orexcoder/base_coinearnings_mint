@@ -1,1 +1,1 @@
-# base_coinearnings_mint
+# Mint coin Earnings NFT
